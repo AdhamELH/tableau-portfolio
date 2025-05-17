@@ -55,3 +55,10 @@ A sector-level analysis of how companies are distributed. Useful for contextuali
 A streamlined version of the first worksheet, optimized for deeper drilling into specific company names and trends.
 
 > 💡 *Insight:* Use this when focusing on a narrow group of companies to explore granular changes.
+
+## 🗂️ **File:** `Companies Market Cap.csv`
+
+The raw dataset used to create these visualizations can be found in this repository:
+
+It includes company names, market capitalization values, sectors, and calculated changes in capital — all of which were used in the Tableau dashboards.
+
