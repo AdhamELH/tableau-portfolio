@@ -27,8 +27,10 @@ This bar chart shows the number of **positive COVID-19 cases** reported per coun
 
 ---
 
-## 🗂️ **File:** `COVID-19 Data.csv`  
+## 📁 Data Source
 
-The raw dataset used for this project is available in this repository:
+The raw dataset used for this dashboard is available here:
 
-It includes columns for country names, COVID-19 case counts, and corresponding dates.
+🔗 [**Download COVID-19 Data.csv (Google Drive)**](https://drive.google.com/file/d/1JkI6_pIpMvUMv5AIyFcpIJrkjzzJwKsV/view?usp=sharing)
+
+> This file contains global COVID-19 case data by country, updated as of April 29, 2022.
