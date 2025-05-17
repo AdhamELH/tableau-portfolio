@@ -18,8 +18,6 @@ This interactive Tableau dashboard visualizes the **global distribution of COVID
 
 ### 🔹 Total COVID-19 Cases by Country (as of 4/29/2022)
 
-![Dashboard Preview](images/covid_dashboard.png)
-
 This bar chart shows the number of **positive COVID-19 cases** reported per country on the selected date. The visual includes:
 - A dynamic **"Top N" filter** to rank countries by total cases
 - Direct comparison of country-level impact
