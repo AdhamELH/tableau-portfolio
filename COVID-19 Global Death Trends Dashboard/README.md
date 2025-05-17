@@ -10,8 +10,6 @@ This project visualizes the **global COVID-19 death toll** using an interactive 
 
 👉 [**View the Interactive Tableau Dashboard**](https://public.tableau.com/app/profile/adham.elhenawy/viz/DeathHeatMap_17474523931790/MainDashboard?publish=yes)
 
-> 🗓️ The dashboard includes filters for **year** and **country**, allowing for time-based and geographic exploration of COVID-19 death data.
-
 ---
 
 ## 📊 Key Visualizations
