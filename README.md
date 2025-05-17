@@ -4,38 +4,46 @@ Welcome to my Tableau portfolio — a growing collection of data visualization a
 
 ---
 
-## 🚧 Status: In Progress
+## 🚀 Featured Dashboards
 
-This portfolio is currently in development. New dashboards and case studies will be added regularly as I explore different datasets and storytelling techniques.
-
----
-
-## 🎯 What You'll Find Here
-
-- Interactive Tableau dashboards
-- Business-oriented and public datasets
-- Key takeaways and visual storytelling narratives
-- A focus on clarity, usability, and data-driven insights
+### 🦠 COVID-19 Case Dashboard  
+📅 *Global cases as of April 29, 2022*  
+📌 Visualizes confirmed cases across countries with a dynamic "Top N" selector.  
+📁 [**GitHub Folder**](./COVID-19%20Global%20Case%20Dashboard)
 
 ---
 
-## 🛠 Tools Used
+### ⚰️ COVID-19 Death Heatmap  
+📅 *Global COVID-19 deaths over time*  
+📌 Heatmap comparing death tolls across countries and months, with year and country filters.  
+📁 [**GitHub Folder**](./COVID-19%20Global%20Death%20Trends%20Dashboard)
 
-- Tableau Public / Tableau Desktop
-- Excel / CSV for data prep
+---
+
+### 💹 Market Capitalization Growth  
+📊 *Visual breakdown of market cap trends by company and sector*  
+📌 Includes 4 interactive views: capital added, company rankings, sector breakdowns, and relationship mapping.  
+📁 [**GitHub Folder**](./Market%20Capitalization%20Growth%20Analysis)
+
+---
+
+## 🧰 Tools Used
+
+- Tableau Public / Tableau Desktop  
+- Excel / CSV for data prep  
 - SQL (for preprocessing when needed)
 
 ---
 
-## 📁 Projects Coming Soon
+## 🧠 What You'll Find Here
 
-- 📦 E-commerce sales dashboard
-- 💼 HR & workforce insights visualization
-- 🌍 Global CO₂ emissions explorer
-- 📈 Executive KPI tracker
+- Interactive Tableau dashboards  
+- Business-oriented and public datasets  
+- Key takeaways and visual storytelling narratives  
+- A focus on clarity, usability, and data-driven insights
 
 ---
 
-## 🔗 Access Dashboards
+## 🌐 Access All Dashboards
 
-Once published, each dashboard will be linked here via Tableau Public.
+Each dashboard is published to Tableau Public and supported with documentation in its own folder.
